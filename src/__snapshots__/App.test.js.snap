@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it does not break 1`] = `
+.emotion-0 {
+  color: red;
+}
+
+<Styled(div)>
+  <div
+    className="emotion-0"
+  />
+</Styled(div)>
+`;
